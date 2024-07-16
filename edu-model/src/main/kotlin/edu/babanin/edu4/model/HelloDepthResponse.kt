@@ -1,6 +1,5 @@
 package edu.babanin.edu4.model
 
-data class HelloResponse(
+data class HelloDepthResponse(
     val value: String,
-    val info: String
 )
